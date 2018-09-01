@@ -1,0 +1,6 @@
+<view class='list'>
+  列表页
+  <view>
+  <button class='footer' bindtap='back'>返回</button>
+  </view>
+</view>

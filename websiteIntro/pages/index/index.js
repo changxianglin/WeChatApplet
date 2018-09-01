@@ -54,5 +54,10 @@ Page({
   },
   showInfo: function() {
     this.setData({info: '首次发布微信小程序'})
+  },
+  nav: function() {
+    wx.navigateTo({
+      url: '../list/list',
+    })
   }
 })

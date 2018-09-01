@@ -11,4 +11,7 @@
     <text class="user-motto" bindtap = "showInfo">{{motto}}</text>
   </view>
   <view class='show'>{{info}}</view>
+  <view>
+  <button bindtap="nav">列表页</button>
+  </view>
 </view>
