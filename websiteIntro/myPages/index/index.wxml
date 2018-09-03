@@ -1,0 +1,14 @@
+<!--myPages/index/index.wxml-->
+<view>
+  <text class='title'>WEBSITE工程师</text>
+
+  <view class='type'>
+  <button class='fe' bindtap='toFE'>{{FE}}</button>
+  </view>
+  <view class='type'>
+  <button class='be' bindtap='toBE'>{{BE}}</button>
+  </view>
+  <view class='type'>
+  <button class='op' bindtap='toOP'>{{OP}}</button>
+  </view>
+</view>

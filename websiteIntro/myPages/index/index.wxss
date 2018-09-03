@@ -1,0 +1,22 @@
+/* myPages/index/index.wxss */
+
+.title, .type {
+  display: block;
+  text-align: center;
+}
+
+.type {
+  margin-top: 50rpx;
+}
+
+.fe {
+  background: RGB(131, 175, 155);
+}
+
+.be {
+  background: RGB(200, 200, 169);
+}
+
+.op {
+  background: RGB(179, 168, 150);
+}

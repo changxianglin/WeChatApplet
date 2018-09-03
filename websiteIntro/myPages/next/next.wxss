@@ -1,0 +1,10 @@
+/* myPages/next/next.wxss */
+
+.line {
+  text-align: center;
+}
+
+.content {
+  display: inline-block;
+  margin: 20rpx;
+}

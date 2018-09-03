@@ -1,0 +1,19 @@
+<!--myPages/next/next.wxml-->
+<view class='container'>
+  <view class='line'>
+    <text class='content'>Java/Python/PHP/Node.js</text>
+    <text class='content'>Spring boot/Flask/Laravel/express</text>
+  </view>
+  <view class='line'>
+    <text class='content'>Oracle/MySql/MongoDB</text>
+    <text class='content'>Redis/SQLite</text>
+  </view>
+  <view class='line'>
+    <text class='content'>Vue.js</text>
+    <text class='content'>React.js</text>
+  </view>
+  <view class='line'>
+    <text class='content'>Vue.js</text>
+    <text class='content'>React.js</text>
+  </view>
+</view>

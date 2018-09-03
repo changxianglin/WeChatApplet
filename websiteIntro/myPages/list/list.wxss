@@ -1,0 +1,10 @@
+/* myPages/list/list.wxss */
+.line {
+  margin: 50rpx;
+}
+.content {
+  margin: 30rpx;
+  padding: 10rpx;
+  border: 1rpx solid RGB(117, 27, 19);
+  border-radius: 5rpx;
+}
