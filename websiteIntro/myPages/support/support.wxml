@@ -1,2 +1,7 @@
 <!--myPages/support/support.wxml-->
-<text>myPages/support/support.wxml</text>
+<view class='container'>
+  <view class='line'>
+    <text class='content'>Linux</text>
+    <text class='content'>Docker</text>
+  </view>
+</view>

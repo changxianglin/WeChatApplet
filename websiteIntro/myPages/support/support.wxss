@@ -1,1 +1,13 @@
 /* myPages/support/support.wxss */
+
+.line {
+  text-align: center;
+}
+
+.content {
+  display: block;
+  margin: 20rpx;
+  padding: 20rpx;
+  border: 1rpx solid #f23;
+  border-radius: 5rpx;
+}
